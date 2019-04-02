@@ -14,4 +14,4 @@ http://archive.ics.uci.edu/ml/datasets/Bank+Marketing. It consists of 41,188 cus
 
 # Prerequisites
 In order to run the project, you need to install RapidMiner studio. 
-This is a link for how to download it.
+This is a link for how to download it.    https://docs.rapidminer.com/latest/studio/installation/
